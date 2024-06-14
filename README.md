@@ -28,10 +28,7 @@
 
 ### :man_technologist: About Me :
 
-I am an AI expert.
-
-- :telescope: I’m working as an AI expert and contributing to artificial intelligence applications in healthcare and computer vision.
-
+I am a Medical Image Processing Expert.
 
 
 <!--
