@@ -28,9 +28,7 @@
 
 👨‍🎓 M.Sc. in Biomedical Engineering
 
-💻 AI Researcher in Healthcare (Medical Image Processing)
-
-🐍 Python Teacher
+💻 AI Researcher in Healthcare
 
 ---
 
@@ -48,6 +46,26 @@ Tarbiat Modares University
 Sahand University of Technology  
 *2017 - 2020*
 
+## Skills
+
+- Python (Programming Language)
+- TensorFlow
+- Keras
+- PyTorch
+- Medical Image Processing
+- Medical Signal Processing
+- Deep Learning
+- Computer Vision
+- Generative AI
+
+## Publications
+
+- DeepRTSNet: Deep Robust Two-Stage Networks for ECG Denoising in Practical Use Case
+- A Novel Object Categorization Decoder from fMRI Signals Using Deep Neural Networks
+- Deep Adaptive Denoising Auto-Encoder Networks for ECG Noise Cancellation via Time-Frequency Domain
+- Leveraging Self-Supervised Learning for Accurate Facial Keypoint Detection in Thermal Images
+- Recognition of Driver's Distraction Based on Facial Thermal Videos by Deep Learning
+
 ## Experience
 
 ### Image Processing Expert using Deep Learning
@@ -55,7 +73,7 @@ Sahand University of Technology
 *June 2023 - June 2024*  
 Developed AI-based services to enhance smart home functionality and workplace efficiency through cutting-edge technological solutions.
 
-### Python Teacher
+### Python Instructor
 **Sports Medicine Research Center**  
 *August 2023 - September 2023*  
 Instructed medical professionals and students in Python programming, enabling them to leverage programming for data analysis, research, and automation in healthcare.
@@ -69,23 +87,6 @@ Supported the instruction of Electrophysiology and Neuroscience to master's stud
 **IEEE TMU Student Branch**  
 *November 2022 - December 2022*  
 Conducted workshops on Python programming and deep learning, receiving positive feedback that led to additional terms.
-
-## Skills
-
-- Python (Programming Language)
-- TensorFlow
-- Keras
-- Medical Image Processing
-- Deep Learning
-
-## Publications
-
-- DeepRTSNet: Deep Robust Two-Stage Networks for ECG Denoising in Practical Use Case
-- A Novel Object Categorization Decoder from fMRI Signals Using Deep Neural Networks
-- Deep Adaptive Denoising Auto-Encoder Networks for ECG Noise Cancellation via Time-Frequency Domain
-- Leveraging Self-Supervised Learning for Accurate Facial Keypoint Detection in Thermal Images
-- Recognition of Driver's Distraction Based on Facial Thermal Videos by Deep Learning
-
 
 
 <!--
